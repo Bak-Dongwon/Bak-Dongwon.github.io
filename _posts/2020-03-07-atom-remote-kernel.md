@@ -66,3 +66,7 @@ Hydrogen: Connect to Remote Kernel 선택
 ![](/assets/images/atom-remote-kernel/atom_2.png)  
 
 ![](/assets/images/atom-remote-kernel/atom_3.png)  
+
+
+## 참고사이트
+* https://teddylee777.github.io/python/jupyternotebook-remote-%EC%A0%91%EC%86%8D%ED%97%88%EC%9A%A9%ED%95%98%EA%B8%B0
